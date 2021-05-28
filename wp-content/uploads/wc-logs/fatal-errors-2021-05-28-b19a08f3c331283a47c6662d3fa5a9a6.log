@@ -1,0 +1,4 @@
+2021-05-28T18:47:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\SellingOnlineCourses.php on line 10
+
+2021-05-28T18:48:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\contact-info.php on line 10
+

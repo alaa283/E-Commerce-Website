@@ -1,0 +1,8 @@
+2021-05-22T03:11:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\vendor\automattic\jetpack-device-detection\src\class-user-agent-info.php on line 19
+
+2021-05-22T03:12:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\nav-menu\nav-menu.php on line 8
+
+2021-05-22T03:12:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\oceanwp\partials\entry\header.php on line 9
+
+2021-05-22T03:13:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2056
+

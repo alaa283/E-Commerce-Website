@@ -1,0 +1,113 @@
+# Copyright (C) 2021 Duplicate Variations for WooCommerce
+# This file is distributed under the same license as the Duplicate Variations for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Duplicate Variations for WooCommerce\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Emran Ahmed\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/class-woo-variation-clone.php:27
+msgid "Variation: #%s cloned."
+msgstr ""
+
+#: ../includes/class-woo-variation-clone.php:32
+msgid "Variation clone limit exceed."
+msgstr ""
+
+#: ../includes/class-woo-variation-clone.php:38
+msgid "How variation duplicator works"
+msgstr ""
+
+#: ../includes/class-woo-variation-clone.php:94
+msgid "Duplicate"
+msgstr ""
+
+#: ../includes/class-woo-variation-clone.php:95
+msgid "Save before duplicate"
+msgstr ""
+
+#: ../includes/class-woo-variation-clone.php:96
+msgid "If you want to duplicate this variation you have to save this variation first."
+msgstr ""
+
+#: ../includes/class-woo-variation-clone.php:100
+msgid "Duplicate variations"
+msgstr ""
+
+#: ../includes/class-woo-variation-image-clone.php:34
+msgid "Variation image cloned."
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:25
+msgid "Set image from another variation / from this product"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:26
+msgid "Bring image from another variation or featured image of this product"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:32
+msgid "Set image to other variation(s)"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:33
+msgid "Copy this variation image to other variation(s)"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:44, ../includes/html-variation-duplicator-form.php:49
+msgid "Variation or Product ID:"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:45, ../includes/html-variation-duplicator-form.php:83
+msgid "See how it works"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:58
+msgid "Product ID"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:59, ../includes/html-variation-duplicator-form.php:71
+msgid " - have no image to clone"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:65
+msgid "Variation ID"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:82, ../includes/html-variation-duplicator-form.php:87
+msgid "Variation IDs:"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:99
+msgid "Select all"
+msgstr ""
+
+#: ../includes/html-variation-duplicator-form.php:100
+msgid "Select none"
+msgstr ""
+
+#: ../variation-duplicator-for-woocommerce.php:59, ../variation-duplicator-for-woocommerce.php:59
+msgid "Read Documentation"
+msgstr ""
+
+#: ../variation-duplicator-for-woocommerce.php:60
+msgid "Facing issue?"
+msgstr ""
+
+#: ../variation-duplicator-for-woocommerce.php:60
+msgid "Please open a ticket."
+msgstr ""
+
+#: ../variation-duplicator-for-woocommerce.php:176
+msgid ""
+"Set how many times each variation should clone. \n"
+"Default value is 1. Limit is %d."
+msgstr ""
